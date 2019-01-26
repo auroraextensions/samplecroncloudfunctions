@@ -19,7 +19,7 @@
 
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Cron:etc/crontab.xsd">
     <group id="default">
-        <job name="sample_cronjob" instance="SampleCronClass" method="execute">
+        <job name="sample_cron_cloud_function" instance="SampleCronCloudFunction" method="execute">
             <schedule>* * * * *</schedule>
         </job>
     </group>
