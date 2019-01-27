@@ -1,6 +1,6 @@
 {
   "name": "auroraextensions/samplecroncloudfunctions",
-  "description": "Sample cron module for testing auroraextensions/magentocroncloudfunctions",
+  "description": "Sample module for AuroraExtensions_MagentoCronCloudFunctions.",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": "MIT",
