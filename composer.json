@@ -1,5 +1,5 @@
 {
-  "name": "auroraextensions/samplecronmodule",
+  "name": "auroraextensions/samplecroncloudfunctions",
   "description": "Sample cron module for testing auroraextensions/magentocroncloudfunctions",
   "type": "magento2-module",
   "version": "1.0.0",
@@ -18,7 +18,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "AuroraExtensions\\SampleCronModule\\": ""
+      "AuroraExtensions\\SampleCronCloudFunctions\\": ""
     }
   }
 }
