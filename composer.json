@@ -10,6 +10,12 @@
       "email": "nickolasburr@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/auroraextensions/magentocroncloudfunctions.git"
+    }
+  ],
   "require": {
     "php": ">=7.1",
     "auroraextensions/magentocroncloudfunctions": "~1.0.0"
