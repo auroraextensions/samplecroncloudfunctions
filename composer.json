@@ -12,7 +12,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "auroraextensions/magentocroncloudfunctions": "dev-master"
+    "auroraextensions/magentocroncloudfunctions": "~1.0.0"
   },
   "autoload": {
     "files": [
