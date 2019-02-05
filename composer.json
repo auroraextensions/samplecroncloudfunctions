@@ -2,7 +2,6 @@
   "name": "auroraextensions/samplecroncloudfunctions",
   "description": "Sample module for AuroraExtensions_MagentoCronCloudFunctions.",
   "type": "magento2-module",
-  "version": "1.0.0",
   "license": "MIT",
   "authors": [
     {
@@ -18,7 +17,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "auroraextensions/magentocroncloudfunctions": "1.0.1"
+    "auroraextensions/magecroncloudfunctions": "~1.0.0"
   },
   "autoload": {
     "files": [
