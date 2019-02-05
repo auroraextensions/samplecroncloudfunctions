@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/auroraextensions/magentocroncloudfunctions.git"
+      "url": "https://github.com/auroraextensions/magecroncloudfunctions.git"
     }
   ],
   "require": {
